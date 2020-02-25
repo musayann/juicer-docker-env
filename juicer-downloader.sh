@@ -1,0 +1,1 @@
+RUN curl -sS https://downloads.wordpress.org/plugin/juicer.1.9.zip > juicer.zip
